@@ -1,11 +1,7 @@
 .idea
 .DS_Store
-eureka-client/.mvn/
-eureka-client/src/main/java/com/ouyang/serviceribbon/
-eureka-client/src/test/java/com/ouyang/serviceribbon/
 .gitignore
 .mvn/
 mvnw
 mvnw.cmd
-pom.xml
-src/
+
